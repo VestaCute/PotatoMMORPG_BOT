@@ -50,6 +50,6 @@ python3 main.pyc
 ```
 
 That's it.
-My VK https://vk.com/vi_choi
+My VK https://vk.com/id94357295
 "# PotatoMMORPG-bot" 
 "# PotatoMMORPG-bot" 
